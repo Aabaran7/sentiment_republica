@@ -1,0 +1,6 @@
+*.pyc 
+__pycache__/
+.venv/
+.env
+.vscode/
+sincere-beacon-436520-j1-284974a0cb30.json
