@@ -1,0 +1,7 @@
+beautifulsoup4
+google-cloud-language
+google-auth
+pandas
+requests
+spacy
+urllib3
